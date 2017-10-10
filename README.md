@@ -1,8 +1,12 @@
 # doublezero
 
-This is a home for the Raspberry Pi Zero W "kippah"/pseudo-HAT hardware and software project the Double Zero, a complete integrated audio, display, human interface, and portable power management peripheral solution specifically designed to add as much functionality and as little volume as possible. The ultimate goal of this device is to make a full-fledged, highly compact and adaptable device capable of functioning as a "thin client", both in standalone and highly adaptable pass-through modes, for the Parsec project, thus putting ultra-low-latency access to the full power of the cloud, your home computer, a gaming console, or anywhere else right on your wrist or in your pocket.
+This is a home for the Raspberry Pi Zero W "kippah"/pseudo-HAT hardware and software project the Double Zero, a complete integrated audio, display, human interface, and portable power management peripheral solution specifically designed to add as much functionality and as little volume as possible. 
 
-FEATURES
+GOALS
+
+The ultimate goal of this device is to make a full-fledged, highly compact and adaptable device capable of functioning as a "thin client", both in standalone and highly adaptable pass-through modes, for the Parsec project, thus putting ultra-low-latency access to the full power of the cloud, your home computer, a gaming console, or anywhere else right on your wrist or in your pocket.
+
+CURRENT FEATURES
 -Extremely compact - board adds less than 6mm vertical height to Pi Zero, and all components, including battery, fit in 70x42x14mm enclosure
 -Low power consumption - <1W draw with Raspberry Pi SoC at idle and all other components active
 -Stereo speakers and microphones
@@ -17,5 +21,5 @@ FEATURES
 -All onboard chips accessible via I2C protocol
 -Designed for pick-and-place/SMD assembly to maximize automation of manufacturing
 
-PLANNED
+PLANNED FEATURES
 -Cellular data connectivity for true "use-anywhere" functionality
